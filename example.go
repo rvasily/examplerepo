@@ -9,4 +9,5 @@ func GiveName(m map[string]string) (string, bool) {
 	return val, exist
 }
 
+const FeatureVer string = "first version"
 
